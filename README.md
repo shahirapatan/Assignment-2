@@ -1,0 +1,1 @@
+This repository contains a MySQL assignment focused on creating databases and tables, inserting records, and performing essential SQL queries. The Assigment  demonstrates the use of conditional operators and pattern matching on real-world examples.
